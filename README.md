@@ -1,7 +1,7 @@
 # HttpMessageServer
 HttpMessageServer
 
-
+### 실행
 HttpMessageServer.exe
 
 HttpMessageServer.exe -port 8080 -remote
@@ -9,7 +9,7 @@ HttpMessageServer.exe -port 8080 -remote
 HttpMessageServer.exe -task abc,efgh,dd
 
 
-API
+### API
 
 -사용 Method : GET, POST <br/>
 -응답 Status Code : 200, 404 <br/>
