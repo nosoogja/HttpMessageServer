@@ -1,7 +1,16 @@
 # HttpMessageServer
 HttpMessageServer
 
-Usage
+
+HttpMessageServer.exe
+
+HttpMessageServer.exe -port 8080 -remote
+
+HttpMessageServer.exe -task abc,efgh,dd
+
+
+API
+
 -사용 Method : GET, POST <br/>
 -응답 Status Code : 200, 404 <br/>
 -<a href="/status">http://localhost/status</a><br/>
