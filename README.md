@@ -22,7 +22,10 @@ HttpMessageServer.exe -task abc,efgh,dd
 
 
 ### Client
+테스트는 브라우져에 위 URI를 입력 하여 확인 가능.
+
 다음 항목들 API 를 찾아서 대충 코딩하여 사용하면 대충 굴러감...
+
 
 c# 참고 
 
