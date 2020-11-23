@@ -19,3 +19,15 @@ HttpMessageServer.exe -task abc,efgh,dd
 -http://localhost/GetMessage?topic=aaa</br>
 -http://localhost/GetLog?task=proc</br>
 -http://localhost/ResetTopic?topic=aaa</br>
+
+
+### Client
+다음 항목들 API 를 찾아서 대충 코딩하여 사용하면 대충 굴러감...
+
+c# 참고 
+
+-HttpClient, FormUrlEncodedContent, KeyValuePair, PostAsync, GetAsync, Content.ReadAsStringAsync()
+
+Golang 참고
+
+-http.PostForm, ioutil.ReadAll, url.Values
