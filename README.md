@@ -8,6 +8,10 @@ HttpMessageServer.exe -port 8080 -remote
 
 HttpMessageServer.exe -task abc,efgh,dd
 
+Linux
+
+* HttpMessageServer.tar.gz 사용
+
 
 ### API
 
