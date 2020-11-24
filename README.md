@@ -11,6 +11,7 @@ HttpMessageServer.exe -task abc,efgh,dd
 Linux
 
 * HttpMessageServer.tar.gz 사용
+* Ubuntu 20.04 확인
 
 
 ### API
