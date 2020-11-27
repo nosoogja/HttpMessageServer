@@ -8,6 +8,8 @@ HttpMessageServer.exe -port 8080 -remote
 
 HttpMessageServer.exe -task abc,efgh,dd
 
+최대 요청 대기 시간 하루.
+
 Linux
 
 * HttpMessageServer.tar.gz 사용
