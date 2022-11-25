@@ -2,6 +2,8 @@
 HttpMessageServer
 
 ### 실행
+https://github.com/nosoogja/HttpMessageServer/releases
+
 HttpMessageServer.exe
 
 HttpMessageServer.exe -port 8080 -remote
